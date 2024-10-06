@@ -9,4 +9,4 @@ const Bookmark = () => {
   )
 }
 
-export default Bookmarks
+export default Bookmark
